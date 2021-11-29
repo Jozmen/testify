@@ -1621,7 +1621,6 @@ var spewConfig = spew.ConfigState{
 	DisablePointerAddresses: true,
 	DisableCapacities:       true,
 	SortKeys:                true,
-	DisableMethods:          true,
 	MaxDepth:                10,
 }
 
